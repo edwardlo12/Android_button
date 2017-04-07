@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView textStatus;
     private Button button;
-    int a = Integer.MAX_VALUE - 5;
+    int a = 0;
 
 
 
