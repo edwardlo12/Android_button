@@ -34,19 +34,20 @@
 
             <TextView
                 android:id="@+id/textView2"
-                android:layout_width="match_parent"
-                android:layout_height="43dp"
-                android:layout_weight="1"
+                android:layout_width="157dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
                 android:text="Textview: status "
-                android:textAlignment="center"
+                android:typeface="normal"
                 tools:layout_editor_absoluteX="8dp"
-                tools:layout_editor_absoluteY="51dp" />
+                tools:layout_editor_absoluteY="71dp" />
 
             <Button
                 android:id="@+id/button1"
                 android:layout_width="match_parent"
                 android:layout_height="48dp"
                 android:layout_weight="1"
+                android:elevation="0dp"
                 android:text="Button"
                 android:textSize="24sp"
                 tools:layout_editor_absoluteX="115dp"
